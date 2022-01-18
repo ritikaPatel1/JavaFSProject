@@ -1,8 +1,8 @@
 Hello World!!
 
-Change added for login feature.
-updated
-change - done by teammate for WI3.
-change for bug2
-
-change : For WI6 on local master to test normal .
+Change 1 :- added for login feature.
+change 2 :- updated
+change 3 :- done by teammate for WI3.
+change 4 :- for bug2
+change 5 :- For WI6 on local master to test normal .
+change 6 :- By team mate on remote master for bug3.
